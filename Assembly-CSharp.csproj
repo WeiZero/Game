@@ -72,7 +72,9 @@
     <Compile Include="Assets\Scripts\PlayerSelect.cs" />
     <Compile Include="Assets\Scripts\Skill.cs" />
     <Compile Include="Assets\Scripts\Test.cs" />
+    <Compile Include="Assets\UETools\Magic_Particle_Effects\Scripts\CameraMovement.cs" />
     <None Include="Assets\Textures\Tool\trap\Sci-Fi Gateway\README.txt" />
+    <None Include="Assets\UETools\Magic_Particle_Effects\Readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Unity_code/Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
